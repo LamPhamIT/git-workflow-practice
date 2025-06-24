@@ -1,1 +1,3 @@
-console.log("Hi from Lam Pham");
+function getHello() {
+  return "Hello, World!";
+}
