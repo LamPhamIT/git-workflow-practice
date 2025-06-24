@@ -4,6 +4,7 @@ function getHello() {
 function getHiInVietNamese() {
   return "Xin chao";
 }
+
 function getHi() {
   return "Hi, there!";
 }
