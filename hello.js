@@ -1,5 +1,5 @@
 function getHello() {
-  return "Hello, World!";
+  return "HIiiii Github";
 }
 
 function getHi() {
